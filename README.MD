@@ -1,4 +1,4 @@
-![👋 Hi, my name is Denis Balagov](./your-header-image-name.png)
+![👋 Hi, my name is Denis Balagov](./github-header-image.png)
 
 ![Profile views](https://komarev.com/ghpvc/?username=dbunt1tled&label=Profile%20views&color=0e75b6&style=flat)
 
