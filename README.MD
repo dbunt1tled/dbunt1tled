@@ -36,10 +36,10 @@
 </p>
 
 <p align="left">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=dbunt1tled&repo=nestjs-api&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" />
+<a href="https://github.com/dbunt1tled/nestjs-api"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=dbunt1tled&repo=nestjs-api&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" /></a>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=dbunt1tled&repo=symfony-test-twit&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" />
 </p>
 <p align="left">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=dbunt1tled&repo=go-api&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=dbunt1tled&repo=nestjs-graphql&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" />
+<a href="https://github.com/dbunt1tled/go-api"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=dbunt1tled&repo=go-api&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=dbunt1tled&repo=nestjs-graphql&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" /></a>
 </p>
