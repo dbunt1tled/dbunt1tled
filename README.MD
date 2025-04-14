@@ -6,7 +6,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        👋 Hi my name is <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=33F75A&center=true&vCenter=true&width=435&lines=Denis+Balagov" alt="Typing SVG" /></a>
+        👋 Hi my name is <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=33F75A&center=true&vCenter=true&width=435&lines=Denis+Balagov" alt="Typing SVG" />
       </h1>
     </summary>
   </ul>
