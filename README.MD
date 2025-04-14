@@ -6,7 +6,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        👋 Hi my name is [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Denis+Balagov)](https://git.io/typing-svg)
+        👋 Hi my name is [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=33F75A&width=435&lines=Denis+Balagov)](https://git.io/typing-svg)
       </h1>
     </summary>
   </ul>
