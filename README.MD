@@ -6,7 +6,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        👋 Hi my name is <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=33F75A&center=true&vCenter=true&width=435&lines=Denis+Balagov" alt="Typing SVG" />
+        👋 Hi my name is <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=33F75A&center=true&vCenter=true&width=435&lines=Denis" alt="Typing SVG" />
       </h1>
     </summary>
   </ul>
@@ -20,7 +20,7 @@
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **💻 Developing a healh-care product**
-- 🌱 I'm currently learning: **📚 Golang**
+- 🌱 I'm currently learning: **📚 Golang**, **🐍 Python**
 - 💬 Ask me about: **💡 Php, MySQL, and REST APIs**
 - ⚡ Fun fact: **🚆 I once debugged a issue while in a train carriage via mobie phone**
 
