@@ -1,7 +1,6 @@
 ![👋 Hi, my name is Denis Balagov](./github-header-image.png)
 
-![Profile views](https://komarev.com/ghpvc/?username=dbunt1tled&label=Profile%20views&color=0e75b6&style=flat)
-
+![Profile views](https://komarev.com/ghpvc/?username=dbunt1tled&label=Profile%20views&color=0e75b6&style=flat) ![committers.top badge](https://user-badge.committers.top/ukraine/dbunt1tled.svg)](https://user-badge.committers.top/ukraine/dbunt1tled)
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
